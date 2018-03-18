@@ -1,4 +1,6 @@
-
+-Most percentage of drivers are from urban cities.
+-There is a direct relation between the number of drivers and the average fare of the cities.
+-Suburban cities are seen to have less number of drivers and more number of rides and thus have more potential of business growth.
 
 ```python
 # importing libraries
